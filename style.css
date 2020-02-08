@@ -11,17 +11,21 @@ html, body {
 
 header {
     background: black;
-    color: white;
+    color: black;
     text-align: center;
     font-size: 60px;
     padding-top: 20px;
+    height: 480px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-image: url("https://static-cdn.jtvnw.net/jtv_user_pictures/a87279de-5851-49eb-8337-f04c92bbcfb7-profile_banner-480.jpeg");
 }
 
 /* main post */
 .main-post {
     text-align: center;
     min-height: 600px;
-    background-image: url("img/ventilador.png");
+    background-image: url("img/feelscaule.png");
     background-color: #123b4a;
 }
 
